@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-porley-navbar-v2/static/css/main.d4db1641.css",
+    "main.js": "/ws101-porley-navbar-v2/static/js/main.a65a070e.js",
+    "index.html": "/ws101-porley-navbar-v2/index.html",
+    "main.d4db1641.css.map": "/ws101-porley-navbar-v2/static/css/main.d4db1641.css.map",
+    "main.a65a070e.js.map": "/ws101-porley-navbar-v2/static/js/main.a65a070e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4db1641.css",
+    "static/js/main.a65a070e.js"
+  ]
+}
